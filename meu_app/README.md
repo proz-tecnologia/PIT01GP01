@@ -17,3 +17,17 @@
 - [immais](https://immais.com/)
 - [organizze](https://www.organizze.com.br/)
 - [mobills](https://www.mobills.com.br/)
+
+##### Widgets utilizados
+- Container
+- Scaffold
+- ListTile
+- Drawer
+- ListView
+- Column
+- Padding
+- Text
+- Icon
+- TextStyle
+- FloatingActionButton
+- BottomNavigationBar
