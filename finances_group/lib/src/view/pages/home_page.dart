@@ -6,7 +6,7 @@ import 'package:finances_group/src/data/repositories/finantial_movement_reposito
 
 import 'package:finances_group/src/models/user_model.dart';
 import 'package:finances_group/src/view/design/colors/app_custom_colors.dart';
-import 'package:finances_group/src/view/widgets/body_teste.dart';
+import 'package:finances_group/src/view/widgets/homepage/body_teste.dart';
 import 'package:finances_group/src/view/widgets/charts/custom_linear_chart.dart';
 import 'package:finances_group/src/view/widgets/charts/donut_chart_widget.dart';
 import 'package:finances_group/src/view/widgets/homepage/app_bar.dart';
